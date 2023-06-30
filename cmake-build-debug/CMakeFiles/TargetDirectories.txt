@@ -1,0 +1,3 @@
+C:/Users/nenit/Documents/universidad/sem4/PROGRA 3/Clion/EstructuraDatoss/cmake-build-debug/CMakeFiles/EstructuraDatoss.dir
+C:/Users/nenit/Documents/universidad/sem4/PROGRA 3/Clion/EstructuraDatoss/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nenit/Documents/universidad/sem4/PROGRA 3/Clion/EstructuraDatoss/cmake-build-debug/CMakeFiles/rebuild_cache.dir

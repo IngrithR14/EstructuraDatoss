@@ -1,0 +1,14 @@
+# ninja log v5
+2	317	7098602526116394	CMakeFiles/EstructuraDatoss.dir/main.cpp.obj	92a3b78fb15f65d8
+318	426	7098602527168535	EstructuraDatoss.exe	e380b83c516ed1d1
+10	120	7098612170578537	CMakeFiles/EstructuraDatoss.dir/LinkedList.cpp.obj	ad1e1ef84c62b8d0
+3	451	7098612173882142	CMakeFiles/EstructuraDatoss.dir/main.cpp.obj	92a3b78fb15f65d8
+2	335	7098613156684123	CMakeFiles/EstructuraDatoss.dir/main.cpp.obj	92a3b78fb15f65d8
+335	478	7098613158067308	EstructuraDatoss.exe	d5de17f6fc76600f
+4	241	7098622600088182	CMakeFiles/EstructuraDatoss.dir/LinkedList.cpp.obj	ad1e1ef84c62b8d0
+11	567	7098622603400789	CMakeFiles/EstructuraDatoss.dir/main.cpp.obj	92a3b78fb15f65d8
+567	705	7098622604722917	EstructuraDatoss.exe	d5de17f6fc76600f
+2	398	7098622753634827	CMakeFiles/EstructuraDatoss.dir/main.cpp.obj	92a3b78fb15f65d8
+398	510	7098622754712991	EstructuraDatoss.exe	d5de17f6fc76600f
+2	386	7098622862864198	CMakeFiles/EstructuraDatoss.dir/main.cpp.obj	92a3b78fb15f65d8
+386	494	7098622863924561	EstructuraDatoss.exe	d5de17f6fc76600f
