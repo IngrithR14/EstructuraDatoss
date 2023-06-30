@@ -34,6 +34,7 @@ int main() {
     for (char c:list->getLinkedList()) {
         cout<<c;
     }
+    //hola soy henry y voy a llorar  y no de risa
     delete(list);
     return 0;
 }
